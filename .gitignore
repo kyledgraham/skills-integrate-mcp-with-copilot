@@ -41,3 +41,7 @@ __pycache__
 
 # Env files
 .env
+
+# Firebase credentials (NEVER commit these!)
+firebase-credentials.json
+firebase-credentials.*.json
